@@ -43,8 +43,7 @@ module.exports = function loadGruntTasks (appPath, grunt){
     'grunt-sails-linker',
     'grunt-sync',
     '@sailshq/grunt-contrib-uglify',
-    'grunt-contrib-watch',
-    'grunt-babel'
+    'grunt-contrib-watch'
   ];
 
   // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
